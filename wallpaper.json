@@ -112,12 +112,12 @@
     },
     {
       "id": 13,
-      "title": "Skybound Palm",
-      "category": "Nature",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/coconut-tree-with-blue-sky.jpg",
+      "title": "Midnight Glow",
+      "category": "Aesthetic",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/night-lamp.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1856x4096",
-      "tags": ["CoconutTree", "SunnySkies", "TropicalEscape"]
+      "resolution": "3072x4096",
+      "tags": ["WarmLighting", "NightVibes", "LampMood"]
     },
     {
       "id": 14,
