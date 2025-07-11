@@ -2,12 +2,12 @@
   "wallpapers": [
     {
       "id": 1,
-      "title": "Fresh Green Grass With Water Drops",
+      "title": "Whispers of the Sky",
       "category": "Nature",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/IMG-20250710-WA0013.jpg",
-      "author": "Pratik",
-      "resolution": "1920x1080",
-      "tags": ["nature", "grass", "sunset"]
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/Oneplus.jpg",
+      "author": "Niraj Ghadi",
+      "resolution": "1080x1920",
+      "tags": ["nature", "trees branches", "blue sky"]
     },
     {
       "id": 2,
