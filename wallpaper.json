@@ -7,7 +7,7 @@
       "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/Oneplus.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
-      "tags": ["nature", "trees branches", "blue sky"]
+      "tags": ["nature", "trees", "blueSky"]
     },
     {
       "id": 2,
@@ -67,12 +67,12 @@
     },
     {
       "id": 8,
-      "title": "Bloom in Focus",
-      "category": "Nature",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/beautiful-flower-oneplus.jpg",
+      "title": "Tropical Skies",
+      "category": "Aesthetic",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/blue-sky-and-coconut-trees.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
-      "tags": ["MacroPhotography", "FlowerBloom", "OnePlusShot"]
+      "tags": ["CoconutTrees", "BlueHorizon", "IslandVibes"]
     },
     {
       "id": 9,
