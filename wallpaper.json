@@ -17,6 +17,35 @@
       "author": "Niraj Ghadi",
       "resolution": "1080x1920",
       "tags": ["city", "neon", "night"]
-    }
+    },
+    {
+      "id": 3,
+      "title": "Urban Calm",
+      "category": "Architecture",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "author": "Niraj Ghadi",
+      "resolution": "1080x1920",
+      "tags": ["city", "neon", "night"]
+    },
+    
+    {
+      "id": 4,
+      "title": "Urban Calm",
+      "category": "Architecture",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "author": "Niraj Ghadi",
+      "resolution": "1080x1920",
+      "tags": ["city", "neon", "night"]
+    },
+    
+    {
+      "id": 5,
+      "title": "Urban Calm",
+      "category": "Architecture",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "author": "Niraj Ghadi",
+      "resolution": "1080x1920",
+      "tags": ["city", "neon", "night"]
+    },
   ]
 }
