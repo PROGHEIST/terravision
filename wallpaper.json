@@ -30,12 +30,12 @@
     
     {
       "id": 4,
-      "title": "Urban Calm",
-      "category": "Architecture",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "title": "Whispers of Nature",
+      "category": "Aesthetic",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/asthetic-nature.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1080x1920",
-      "tags": ["city", "neon", "night"]
+      "resolution": "1856x4096",
+      "tags": ["TreeSilhouette", "PastelSky", "NatureMood"]
     },
     
     {
