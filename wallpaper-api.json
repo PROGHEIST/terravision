@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Mountain View",
+      "category": "Nature",
+      "url": "https://your-image-url.com/mountain.jpg",
+      "author": "Pratik",
+      "resolution": "1920x1080",
+      "tags": ["nature", "mountain", "sunset"]
+    },
+    {
+      "id": 2,
+      "title": "Cyberpunk City",
+      "category": "Futuristic",
+      "url": "https://your-image-url.com/cyberpunk.jpg",
+      "author": "AI Generator",
+      "resolution": "1080x1920",
+      "tags": ["city", "neon", "night"]
+    }
+  ]
+}
