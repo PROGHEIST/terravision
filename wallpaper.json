@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Whispers of the Sky",
-      "category": "Nature",
+      "category": "Aesthetic",
       "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/Oneplus.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
@@ -40,12 +40,12 @@
     
     {
       "id": 5,
-      "title": "Urban Calm",
-      "category": "Architecture",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "title": "Bloom in Focus",
+      "category": "Nature",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/beautiful-flower-oneplus.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1080x1920",
-      "tags": ["city", "neon", "night"]
+      "resolution": "1856x4096",
+      "tags": ["MacroPhotography", "FlowerBloom", "OnePlusShot"]
     },
   ]
 }
