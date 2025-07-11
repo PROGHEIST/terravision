@@ -154,24 +154,6 @@
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["SmallWaterfall", "ForestStream", "NatureFlow"]
-    },
-    {
-      "id": 18,
-      "title": "Garden Whimsy",
-      "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/park-decoration.jpg",
-      "author": "Niraj Ghadi",
-      "resolution": "1856x4096",
-      "tags": ["ParkDecor", "FairyLights", "WhimsicalVibes"]
-    },
-    {
-      "id": 19,
-      "title": "Garden Whimsy",
-      "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/park-decoration.jpg",
-      "author": "Niraj Ghadi",
-      "resolution": "1856x4096",
-      "tags": ["ParkDecor", "FairyLights", "WhimsicalVibes"]
-    },
+    }
   ]
 }
