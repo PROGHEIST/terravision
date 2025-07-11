@@ -11,10 +11,10 @@
     },
     {
       "id": 2,
-      "title": "Cyberpunk City",
-      "category": "Futuristic",
-      "url": "https://your-image-url.com/cyberpunk.jpg",
-      "author": "AI Generator",
+      "title": "Urban Calm",
+      "category": "Architecture",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "author": "Niraj Ghadi",
       "resolution": "1080x1920",
       "tags": ["city", "neon", "night"]
     }
