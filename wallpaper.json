@@ -6,7 +6,7 @@
       "category": "Nature",
       "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/Oneplus.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1080x1920",
+      "resolution": "1856x4096",
       "tags": ["nature", "trees branches", "blue sky"]
     },
     {
@@ -15,17 +15,17 @@
       "category": "Architecture",
       "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1080x1920",
-      "tags": ["city", "neon", "night"]
+      "resolution": "2995x3994",
+      "tags": ["architecture", "geometry", "art"]
     },
     {
       "id": 3,
-      "title": "Urban Calm",
+      "title": "Golden Geometry",
       "category": "Architecture",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architecture.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1080x1920",
-      "tags": ["city", "neon", "night"]
+      "resolution": "2963x3950",
+      "tags": ["architecture", "geometry", "art"]
     },
     
     {
