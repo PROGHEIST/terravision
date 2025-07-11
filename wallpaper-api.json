@@ -2,12 +2,12 @@
   "wallpapers": [
     {
       "id": 1,
-      "title": "Mountain View",
+      "title": "Fresh Green Grass With Water Drops",
       "category": "Nature",
-      "url": "https://your-image-url.com/mountain.jpg",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/IMG-20250710-WA0013.jpg",
       "author": "Pratik",
       "resolution": "1920x1080",
-      "tags": ["nature", "mountain", "sunset"]
+      "tags": ["nature", "grass", "sunset"]
     },
     {
       "id": 2,
