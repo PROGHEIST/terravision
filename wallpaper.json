@@ -139,12 +139,12 @@
     },
     {
       "id": 16,
-      "title": "Garden Whimsy",
-      "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/park-decoration.jpg",
+      "title": "Golden Horizon",
+      "category": "Nature",
+      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/sea-sunset.jpg",
       "author": "Niraj Ghadi",
-      "resolution": "1856x4096",
-      "tags": ["ParkDecor", "FairyLights", "WhimsicalVibes"]
+      "resolution": "1824x4080",
+      "tags": ["SeaSunset", "GoldenSky", "TranquilWaters"]
     },
     {
       "id": 17,
