@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Whispers of the Sky",
       "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/Oneplus.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/Oneplus.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["nature", "trees", "blueSky"]
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "Urban Calm",
       "category": "Architecture",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/architectural-photography.jpg",
       "author": "Niraj Ghadi",
       "resolution": "2995x3994",
       "tags": ["architecture", "geometry", "art"]
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "Golden Geometry",
       "category": "Architecture",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/architecture.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/architecture.jpg",
       "author": "Niraj Ghadi",
       "resolution": "2963x3950",
       "tags": ["architecture", "geometry", "art"]
@@ -32,7 +32,7 @@
       "id": 4,
       "title": "Whispers of Nature",
       "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/asthetic-nature.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/asthetic-nature.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["TreeSilhouette", "PastelSky", "NatureMood"]
@@ -42,7 +42,7 @@
       "id": 5,
       "title": "Bloom in Focus",
       "category": "Nature",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/beautiful-flower-oneplus.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/beautiful-flower-oneplus.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["MacroPhotography", "FlowerBloom", "OnePlusShot"]
@@ -51,7 +51,7 @@
       "id": 6,
       "title": "Petals in Harmony",
       "category": "Nature",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/beautiful-flower.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/beautiful-flower.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["FloralAesthetics", "SoftFocus", "SpringVibes"]
@@ -60,7 +60,7 @@
       "id": 7,
       "title": "Roots to Sky",
       "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/big-tree-with-blue-sky.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/big-tree-with-blue-sky.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["MajesticTree", "BlueSkyView", "NaturePerspective"]
@@ -69,7 +69,7 @@
       "id": 8,
       "title": "Tropical Skies",
       "category": "Aesthetic",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/blue-sky-and-coconut-trees.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/blue-sky-and-coconut-trees.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["CoconutTrees", "BlueHorizon", "IslandVibes"]
@@ -78,7 +78,7 @@
       "id": 9,
       "title": "Palm Silhouette",
       "category": "Nature",
-      "url": "https://raw.githubusercontent.com/PROGHEIST/terravision/refs/heads/main/images/blue-sky-coconut-tree.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/PROGHEIST/terravision/refs/heads/main/images/blue-sky-coconut-tree.jpg",
       "author": "Niraj Ghadi",
       "resolution": "1856x4096",
       "tags": ["SunlitPalm", "ClearSky", "TropicalChill"]
